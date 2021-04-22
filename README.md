@@ -5,11 +5,12 @@
 * [对接金蝶云星辰同步财务模块](https://apps.odoo.com/apps/modules/14.0/account_integration_jdy/)
 
 ## Coming Soon
-* 对接畅捷通T+
+* 对接畅捷通好会计
 * 钉钉扫码登入 V14.0
 
 ## Planning
 * 对接用友Yonsuite
+* 对接畅捷通T+
 * 对接金蝶云星空
 * 企业微信扫码登入
 * 对接微信支付
